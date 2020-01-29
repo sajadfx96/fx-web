@@ -1,0 +1,30 @@
+body {
+    background-color: #dfdfdf;
+}
+
+.menu {
+    width: 100%;
+    height: 63px;
+}
+
+a {
+    padding: 2px;
+    margin: auto;
+    color: rgb(194, 194, 194);
+    text-decoration: none;
+    font-size: 33;
+    font-family: fantasy;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+a:active {
+    color: #0ef719;
+}
+#post {
+    position: absolute;
+    margin-bottom: 20%;
+    background-color: white;
+}
