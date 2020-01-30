@@ -10,7 +10,7 @@ body {
 a {
     padding: 2px;
     margin: auto;
-    color: rgb(194, 194, 194);
+    color: rgb(41, 37, 37);
     text-decoration: none;
     font-size: 33;
     font-family: fantasy;
@@ -21,10 +21,23 @@ a:hover {
 }
 
 a:active {
-    color: #0ef719;
+    color: white;
+    background-color: black;
+    border-radius: 15%;
 }
-#post {
-    position: absolute;
-    margin-bottom: 20%;
+.search {
+    border: none;
     background-color: white;
+    float: right;
+}
+#sh-ico{
+    width: 16px;
+    height: 14px;
+}
+#post-img {
+    width: 640px;
+    height: 380px;
+}
+.post {
+    
 }
